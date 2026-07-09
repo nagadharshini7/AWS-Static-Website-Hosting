@@ -15,7 +15,6 @@ Hosted a personal portfolio website using Amazon S3 Static Website Hosting.
 http://dharshini-cloud-portfolio.s3-website.ap-south-1.amazonaws.com
 
 ## Project Structure
-
 aws-static-website-hosting/
 ├── index.html
 ├── style.css
